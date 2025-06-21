@@ -1,8 +1,9 @@
-# Robot-Assisted Camera Arm — Bachelor Thesis
+# Camera Arm Manipulator — Bachelor Thesis
 
-This repository contains the code, documentation, and resources developed as part of the Bachelor thesis *Design and Control of a Robot-Assisted Camera Arm with Intuitive Control Methods* at the Management Center Innsbruck (MCI).
+This repository contains the code, documentation, and resources developed as part of the Bachelor thesis *Development and evaluation of a robotic
+arm for endoscopic cameras with intuitive manipulation techniques* at the Management Center Innsbruck (MCI).
 
-## 📑 Overview
+##  Overview
 
 The aim of this project was to develop a compact robotic camera arm that completes the existing **Desktop Teleoperated Training System** at MCI. This system combines:
 
@@ -14,6 +15,9 @@ The aim of this project was to develop a compact robotic camera arm that complet
 
 ## 🛠️ Repository Structure
 
+- Robotic_arm_control.ino -> Main code to control the System
+- Evaluation_setup.ino -> Code for Measurements and Evaluation
+- User_interface.py -> Python code for User Interface
 
 ## ⚙️ Hardware
 
@@ -33,4 +37,12 @@ The aim of this project was to develop a compact robotic camera arm that complet
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/YourRepositoryName.git
+   git clone https://github.com/DomiRiedl/Camera-arm-manipulator.git
+
+2. Upload Robotic_arm_control.ino to your microcontroller
+3. Start the User Interface using the Code User_interface.py
+4. Connect to your System
+5. "Start" or "Skip" the Calibration process
+6. Choose control Method
+7. System is read for Operation
+   
