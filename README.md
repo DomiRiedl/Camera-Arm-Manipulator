@@ -37,10 +37,10 @@ The aim of this project was to develop a compact robotic camera arm that complet
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/DomiRiedl/Camera-arm-manipulator.git
+   git clone https://github.com/DomiRiedl/Camera-Arm-Manipulator.git
 
-2. Upload Robotic_arm_control.ino to your microcontroller
-3. Start the User Interface using the Code User_interface.py
+2. Upload Robotic_arm_control.ino to your Microcontroller
+3. Start the User Interface using the Code GUI_Bachelorthesis.py
 4. Connect to your System
 5. "Start" or "Skip" the Calibration process
 6. Choose control Method
