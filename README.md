@@ -45,4 +45,11 @@ The aim of this project was to develop a compact robotic camera arm that complet
 5. "Start" or "Skip" the Calibration process
 6. Choose control Method
 7. System is read for Operation
+
+## 📬 Contact & Contribution
+
+Found a bug? Have an idea to improve the system?  
+- Open an **Issue**  
+- Submit a **Pull Request**  
+- Or reach out directly via **GitHub**
    
