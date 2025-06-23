@@ -15,9 +15,9 @@ The aim of this project was to develop a compact robotic camera arm that complet
 
 ## 🛠️ Repository Structure
 
-- Robotic_arm_Control.ino -> Main code to control the System
+- Robotic_arm_Control.ino -> Main Code to Control the System
 - Evaluation_Setup.ino -> Code for Measurements and Evaluation
-- GUI_Bachelorthesis.py -> Python code for User Interface
+- GUI_Bachelorthesis.py -> Python Code for User Interface
 
 ## ⚙️ Hardware
 
